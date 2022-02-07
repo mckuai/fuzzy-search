@@ -1,4 +1,4 @@
-name: fuzzyrefactor
+name: fuzzy
 channels:
   - conda-forge
   - defaults
