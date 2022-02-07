@@ -8,3 +8,5 @@ output/old_accounts.csv
 .ipynb_checkpoints/
 .vscode/
 Data/
+input/**
+output/**
